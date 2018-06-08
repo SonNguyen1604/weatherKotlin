@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="server_url">http://api.openweathermap.org/data/2.5/</string>
+    <string name="server_image_url">https://api.flickr.com/</string>
+    <string name="appid">b7bff72416045f6f88ddc19c5afe3f6c</string>
+    <string name="hanoi_id">2172797</string>
+    <string name="flickr_key">11645e460be58576968f14313445c619</string>
+    <string name="flickr_secret">19bb200796e4c2d3</string>
+</resources>
